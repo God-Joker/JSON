@@ -1,0 +1,17 @@
+[
+    {
+        "channelId": "1",
+        "isInstall": "0",
+        "channelUrl": "http://1"
+    },
+    {
+        "channelId": "baidusjzs",
+        "isInstall": "0",
+        "channelUrl": "http://gdown.baidu.com/data/wisegame/1f10e30a23693de1/baidushoujizhushou_16786079.apk"
+    },
+    {
+        "channelId": "ucllq",
+        "isInstall": "0",
+        "channelUrl": "http://gdown.baidu.com/data/wisegame/8121beb4a36c47d3/UCliulanqi_602.apk"
+    }
+]
